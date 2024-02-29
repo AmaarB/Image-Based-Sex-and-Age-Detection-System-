@@ -4,4 +4,4 @@ The Age and Sex Predictor project uses deep learning to infer a person's age and
 
 
 <img width="1199" alt="Screenshot 2024-02-29 at 21 08 00" src="https://github.com/AmaarB/Image-Based-Sex-and-Age-Detection-System-/assets/84424799/3ecc1795-cbeb-493f-a76f-6c7735c18eed">
-<img width="1205" alt="Screenshot 2024-02-29 at 21 07 44" src="https://github.com/AmaarB/Image-Based-Sex-and-Age-Detection-System-/assets/84424799/c70add99-d2dc-49da-ae78-75b1259ad956">
+
